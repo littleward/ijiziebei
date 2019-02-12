@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oozahgh.railroadsofmn.com/sitemap.xml
